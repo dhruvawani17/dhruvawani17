@@ -22,8 +22,8 @@
 
 ### 🌐 Connect with me
 <p align="left">
-<a href="https://twitter.com/dhruvawani17" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" height="30"></a>
-<a href="https://linkedin.com/in/Dhruva_wani_17" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30"></a>
+<a href="https://twitter.com/Dhruva_wani_17" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" height="30"></a>
+<a href="https://linkedin.com/in/dhruvawani17" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30"></a>
 <a href="https://instagram.com/dhruva_wani_17" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="30"></a>
 <a href="https://medium.com/@dhruva_wani_17" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" height="30"></a>
 <a href="https://www.youtube.com/c/dhruvawani" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" height="30"></a>
