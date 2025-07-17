@@ -1,16 +1,62 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm DHRUVA WANI</h1>
+<h3 align="center">🚀 A Passionate Full Stack Developer from India</h3>
 
-<!--
-**dhruvawani17/dhruvawani17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dhruvawani17&theme=radical&row=1&column=6&margin-w=15&margin-h=15" alt="trophies"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me
+
+- 🔭 I’m currently working on **[Hospital Management System](https://hospital-1-o278.vercel.app/)**  
+- 🌱 I’m currently learning **DevOps** & **System Design**  
+- ✍️ I regularly write on **[Medium](https://medium.com/@dhruva_wani_17)**  
+- 📫 Reach me at **dhruvawani17@gmail.com**  
+- 📄 Know about my experiences: [**My Resume**](https://drive.google.com/file/d/1PoIc5H4F-CIB0PBgrNW2bd-1g0XaBs5M/view?usp=sharing)
+
+---
+
+### 🌐 Connect with me
+<p align="left">
+<a href="https://twitter.com/dhruvawani17" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" height="30"></a>
+<a href="https://linkedin.com/in/Dhruva_wani_17" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30"></a>
+<a href="https://instagram.com/dhruva_wani_17" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="30"></a>
+<a href="https://medium.com/@dhruva_wani_17" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" height="30"></a>
+<a href="https://www.youtube.com/c/dhruvawani" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" height="30"></a>
+<a href="https://www.leetcode.com/dhruvawani17" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" height="30"></a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+<p align="left">
+<a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,express,mongodb,mysql,postgresql,redis,java,python,c,bootstrap,html,css,js,figma,docker,kubernetes,aws,azure,gcp,firebase,postman,git" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvawani17&theme=radical" alt="streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvawani17&show_icons=true&theme=radical" alt="stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvawani17&layout=compact&theme=radical" alt="languages" />
+</p>
+
+---
+
+### 🏆 Achievements
+- ✍️ **Author of the book _“The Secrets to Master Your Mind”_** (written at age 14)  
+- 🏅 Solved **100+ DSA problems** on LeetCode  
+- 🚀 Built and deployed **multiple full‑stack projects** on cloud platforms  
+- 📖 Regularly publish **technical articles** on Medium
+---
+
+💙 *If you like my work, feel free to ⭐ my repositories and connect with me!*
