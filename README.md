@@ -53,7 +53,7 @@
 ---
 
 ### 🏆 Achievements
-- ✍️ **Author of the book _“The Secrets to Master Your Mind”_** (written at age 14)  
+- ✍️ **Author of the book _“The Secrets to Master Your Mind”_** 
 - 🚀 Built and deployed **multiple full‑stack projects** on cloud platforms  
 - 📖 Regularly publish **technical articles** on Medium
 ---
