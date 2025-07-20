@@ -47,7 +47,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dhruvawani17&show_icons=true&theme=radical" alt="stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvawani1&layout=compact&theme=radical" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvawani17&layout=compact&theme=radical" alt="languages" />
 </p>
 
 ---
