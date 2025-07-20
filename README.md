@@ -47,7 +47,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dhruvawani17&show_icons=true&theme=radical" alt="stats" />
 </p>
 <p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvawani17&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvawani17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </p>
 
 ---
