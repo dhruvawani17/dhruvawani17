@@ -41,13 +41,13 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvawani1&theme=radical" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvawani17&theme=radical" alt="streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhruvawani17&show_icons=true&theme=radical" alt="stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvawani17&layout=compact&theme=radical" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvawani1&layout=compact&theme=radical" alt="languages" />
 </p>
 
 ---
