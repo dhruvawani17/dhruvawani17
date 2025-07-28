@@ -44,7 +44,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvawani17&theme=radical&v=1" alt="streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvawani17&show_icons=true&theme=radical&v=3" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvawani17&show_icons=true&theme=radical&v=1" alt="stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvawani17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&v=4" height="150" alt="languages graph" />
