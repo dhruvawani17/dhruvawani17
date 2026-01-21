@@ -4,7 +4,7 @@
 <p align="center">
   
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dhruvawani17&theme=radical&row=1&column=6&margin-w=15&margin-h=15" alt="trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=dhruvawani17&theme=radical&row=1&column=6&margin-w=15&margin-h=16" alt="trophies"/>
   </a>
 </p>
 
@@ -41,7 +41,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvawani17&theme=radical&v=3" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvawani17&theme=radical&v=2" alt="streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhruvawani17&show_icons=true&theme=radical&v=1" alt="stats" />
