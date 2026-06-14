@@ -12,7 +12,6 @@
 
 ### 💡 About Me
 
-- 🔭 I’m currently working on **[Hospital Management System](https://hospital-1-o278.vercel.app/)**  
 - 🌱 I’m currently learning **Deep Learning** & **System Design**  
 - ✍️ I regularly write on **[Medium](https://medium.com/@dhruva_wani_17)**  
 - 📫 Reach me at **dhruvawani17@gmail.com**  
