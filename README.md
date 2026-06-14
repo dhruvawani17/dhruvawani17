@@ -13,7 +13,7 @@
 ### 💡 About Me
 
 - 🔭 I’m currently working on **[Hospital Management System](https://hospital-1-o278.vercel.app/)**  
-- 🌱 I’m currently learning **DevOps** & **System Design**  
+- 🌱 I’m currently learning **Deep Learning** & **System Design**  
 - ✍️ I regularly write on **[Medium](https://medium.com/@dhruva_wani_17)**  
 - 📫 Reach me at **dhruvawani17@gmail.com**  
 - 📄 Know about my experiences: [**My Resume**](https://drive.google.com/file/d/1PoIc5H4F-CIB0PBgrNW2bd-1g0XaBs5M/view?usp=sharing)
